@@ -1,0 +1,9 @@
+data/
+features/X.npy
+features/y.npy
+features/X_test.npy
+features/y_test.npy
+__pycache__/
+*.pyc
+venv/
+.venv/
